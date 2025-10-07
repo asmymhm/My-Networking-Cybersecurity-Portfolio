@@ -24,7 +24,7 @@ This portfolio demonstrates my hands-on networking and cybersecurity skills usin
 ## ⚙️ Tools Used
 - Cisco Packet Tracer  
 - Draw.io for topology diagrams  
-- Markdown for documentation  
+- Visual Studio for documentation  
 
 ---
 
