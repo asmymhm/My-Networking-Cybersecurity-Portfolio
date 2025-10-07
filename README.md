@@ -13,10 +13,10 @@ This portfolio demonstrates my hands-on networking and cybersecurity skills usin
 3. **[Centralized Syslog & SNMP Monitoring](https://github.com/asmymhm/centralized-syslog-snmp-monitoring-lab)**
    - Network monitoring and log centralization.
 
-4. **[NAT & ACL Firewall Project](https://github.com/asmymhm/networking-nat-acl-firewall)**
+4. **[NAT & ACL Firewall Project](https://github.com/asmymhm/networking-nat-acl-firewall-lab)**
    - NAT configuration with security ACL rules.
 
-5. **[OSPF Multi-Router Enterprise Network](https://github.com/asmymhm/ospf-multi-router-office-network)**
+5. **[OSPF Multi-Router Enterprise Network](https://github.com/asmymhm/ospf-multi-router-office-network-lab)**
    - Dynamic routing and network segmentation.
 
 ---
