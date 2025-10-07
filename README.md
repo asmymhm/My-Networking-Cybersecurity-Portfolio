@@ -7,7 +7,7 @@ This portfolio demonstrates my hands-on networking and cybersecurity skills usin
 1. **[Enterprise VLAN & Inter-VLAN Routing Lab](https://github.com/asmymhm/enterprise-vlan-intervlan-lab)**
    - VLAN segmentation, trunking, inter-VLAN routing.
 
-2. **[DHCP Redundancy with Failover in Office Network](https://github.com/asmymhm/dhcp-redundancy-with-Failover-in-Office-Network-lab)**
+2. **[DHCP Redundancy with Failover in Office Network](https://github.com/asmymhm/dhcp-redundancy-with-failover-in-office-network-lab)**
    - DHCP primary/secondary configuration for high availability.
 
 3. **[Centralized Syslog & SNMP Monitoring](https://github.com/asmymhm/centralized-syslog-snmp-monitoring-lab)**
